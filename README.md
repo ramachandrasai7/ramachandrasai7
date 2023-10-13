@@ -1,5 +1,9 @@
-### Hi there 👋. I am Ramachandra Sai Nayani Currently pursuing Masters in Computer Science at Arizona State Univeristy
+### Hi there 👋. I am Ramachandra Sai Nayani.
 
+
+- 🔭 I’m currently working on pursuing a Master's in Computer Science at Arizona State University.
+
+- 
 <!--
 **ramachandrasai7/ramachandrasai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
