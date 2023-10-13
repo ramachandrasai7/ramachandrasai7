@@ -9,6 +9,7 @@ My Tech Interests include Data Science and Software Development.
 
 - 📫 How to reach me: [ramachandra.sai16@gmail.com] , [(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramachandra-913b78111/)
  
+SKILLS
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
 <!--
