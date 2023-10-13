@@ -10,7 +10,7 @@ As a wise man once said, the growling engine of change is Technology. I am proud
  
 SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=py,postgres,flask,mysql,pytorch,java,azure,aws,postman,js,html,css,)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,flask,mysql,pytorch,java,azure,aws,postman,js,html,css,)](https://skillicons.dev)
 <!--
 **ramachandrasai7/ramachandrasai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
