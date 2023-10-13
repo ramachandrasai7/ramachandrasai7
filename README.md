@@ -7,7 +7,7 @@ My Tech Interests include Data Science and Software Development.
 
 - 👯 I’m looking for Full Time Job Opportunities from May 2024 to expand my knowledge and network.
 
-- 📫 How to reach me: [ramachandra.sai16@gmail.com] , [(https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ramachandra-913b78111/)
+- 📫 How to reach me: [ramachandra.sai16@gmail.com] , [Linkedin](https://www.linkedin.com/in/ramachandra-913b78111/)
  
 SKILLS
 
