@@ -1,6 +1,8 @@
 ### Hi there 👋.
 
-I am Ramachandra Sai Nayani. I am 
+I am a dedicated individual who firmly believes that the measure of pride one can take in life is directly related to the impact one creates in the world. I am passionate about leveraging technology as a powerful means to make a positive difference in the world. My commitment to this belief drives my work and motivates me to contribute effectively to the tech industry.
+
+
 
 
 - 🔭 I’m currently working on pursuing a Master's in Computer Science at Arizona State University.
