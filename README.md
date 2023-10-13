@@ -1,11 +1,13 @@
-### Hi there 👋. I am Ramachandra Sai Nayani.
+### Hi there 👋.
+
+I am Ramachandra Sai Nayani. I am 
 
 
 - 🔭 I’m currently working on pursuing a Master's in Computer Science at Arizona State University.
 
 - 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
 <!--
 **ramachandrasai7/ramachandrasai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
