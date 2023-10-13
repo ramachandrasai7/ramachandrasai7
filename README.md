@@ -11,7 +11,7 @@ My Tech Interests include Data Science and Software Development.
  
 SKILLS
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)]
+[![My Skills](https://skillicons.dev/icons?i=py,postgres,flask,mysql,pytorch,java,azure,aws,postman,js,html,css,)](https://skillicons.dev)]
 <!--
 **ramachandrasai7/ramachandrasai7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
