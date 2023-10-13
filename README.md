@@ -1,6 +1,6 @@
 ### Hi there ! I am Ramachandra Sai Nayani👋.
 
-As a wise man once said, the growling engine of change is Technology. I am proud to be in the technology sector and a master's Student in Computer Science. I want to be a small contributor to the huge impact that technology is ever creating on Humanity for good. I am a passionate problem solver, a Software Engineer by Profession, and an aspiring Data Scientist. I am willing to contribute or discuss on anything related to Technology. 
+As a wise man once said, the growling engine of change is Technology. I am proud to be in the technology sector and a master's Student in Computer Science. I want to be a small contributor to the huge impact that technology is ever creating on Humanity for good. I am a passionate problem solver, a Software Engineer by Profession, and an aspiring Data Scientist. I am willing to contribute or discuss anything related to Technology. 
 
 - 🔭 I’m currently working on pursuing a Master's in Computer Science at Arizona State University.
 
