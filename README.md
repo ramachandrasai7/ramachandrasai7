@@ -2,9 +2,9 @@
 
 As a wise man once said, the growling engine of change is Technology. I am proud to be in the technology sector and a master's Student in Computer Science. I want to be a small contributor to the huge impact that technology is ever creating on Humanity for good. I am a passionate problem solver, a Software Engineer by Profession, and an aspiring Data Scientist. I am willing to contribute or discuss anything related to Technology. 
 
-- 🔭 I’m currently working on pursuing a Master's in Computer Science at Arizona State University.
+- 🔭 I’m currently on pursuing Master's in Computer Science at Arizona State University.
 
-- 👯 I’m looking for Full Time Job Opportunities from May 2024 to expand my knowledge and network.
+- 👯 I’m looking for Full Time Job Opportunities from May 2024.
 
 - 📫 How to reach me: ramachandra.sai16@gmail.com , [Linkedin](https://www.linkedin.com/in/ramachandra-913b78111/)
  
